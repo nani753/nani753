@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning btech final year in Electronics and Communication engineering
 - 💞️ I’m looking to collaborate on companies providing internships on web development and cyber security
 - 📫 How to reach me nageswararaopapeneni@gmail.com
-- 😄 Pronouns: NAgeswara Rao papeneni
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Nageswara Rao Papeneni
+- ⚡ Fun fact: There are more stars in the universe than grains of sand on all the world's beaches. 🌌🏖️
 
 <!---
 nani753/nani753 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
